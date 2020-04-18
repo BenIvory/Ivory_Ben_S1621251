@@ -1,0 +1,7 @@
+<resources>
+    <!--Ben Ivory S1621251-->
+    <string name="app_name">MPD Coursework</string>
+
+    <string name="hello_blank_fragment">Blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

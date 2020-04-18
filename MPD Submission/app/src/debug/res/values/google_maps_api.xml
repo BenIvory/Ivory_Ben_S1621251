@@ -1,0 +1,4 @@
+<resources>
+    <!--Ben Ivory S1621251-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDerJ1kxOpFReS06LUIcnZfzqOCrZ82rQM</string>
+</resources>

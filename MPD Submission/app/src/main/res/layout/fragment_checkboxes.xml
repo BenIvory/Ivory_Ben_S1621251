@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/checkBoxCI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Incidents" />
+
+    <CheckBox
+        android:id="@+id/checkBoxCR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Roadworks" />
+
+    <CheckBox
+        android:id="@+id/checkBoxPR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Planned Roadworks" />
+
+</LinearLayout>
